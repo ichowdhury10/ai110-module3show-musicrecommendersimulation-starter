@@ -141,6 +141,14 @@ Six user profiles were tested to evaluate the system:
 
 **Weight-shift experiment:** Mentally doubling energy's weight for the adversarial "Electronic + Peaceful" profile would flip the top result from *Pulse Protocol* to *Moonlight Sonata Remix* — which feels more correct for a low-energy, peaceful listener. This confirms genre weight dominates too heavily when genre and energy point in opposite directions.
 
+<img width="808" height="197" alt="Screenshot 2026-04-13 at 12 54 44 AM" src="https://github.com/user-attachments/assets/40b2b4b1-13b6-4b52-a37d-56d6df7a770d" />
+<img width="681" height="203" alt="Screenshot 2026-04-13 at 12 54 34 AM" src="https://github.com/user-attachments/assets/3fdb1f40-63ca-4e2d-8bf3-97fde206e307" />
+<img width="501" height="201" alt="Screenshot 2026-04-13 at 12 54 15 AM" src="https://github.com/user-attachments/assets/8f58eeb3-3ac5-4e92-ba3b-96dbf84c9706" />
+<img width="640" height="208" alt="Screenshot 2026-04-13 at 12 54 00 AM" src="https://github.com/user-attachments/assets/d7f967f6-f380-4079-bbaf-dc9947c6f43a" />
+<img width="794" height="204" alt="Screenshot 2026-04-13 at 12 53 48 AM" src="https://github.com/user-attachments/assets/99ec14dc-4bba-4013-9ece-01679f1297c8" />
+<img width="656" height="201" alt="Screenshot 2026-04-13 at 12 53 37 AM" src="https://github.com/user-attachments/assets/b43c506e-487e-40b6-abd9-59790ca8ba09" />
+
+
 ---
 
 ## Limitations and Risks
