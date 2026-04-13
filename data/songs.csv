@@ -1,0 +1,21 @@
+id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
+1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18
+2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71
+3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10
+4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86
+5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05
+6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92
+7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89
+8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
+9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
+10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+11,Block Party Anthem,Creston Ave,hip-hop,energetic,0.88,96,0.74,0.91,0.08
+12,Moonlight Sonata Remix,Clara V,classical,peaceful,0.22,66,0.78,0.30,0.97
+13,Dirt Road Memory,Hank Hollow,country,nostalgic,0.55,104,0.69,0.64,0.72
+14,Velvet Hours,Sable Quinn,r&b,romantic,0.61,88,0.83,0.72,0.44
+15,Pulse Protocol,Circuit Moth,electronic,euphoric,0.95,140,0.71,0.94,0.03
+16,Iron Sky,Fractured Tide,metal,angry,0.97,168,0.29,0.55,0.06
+17,Autumn Letters,Birch & Fern,folk,melancholic,0.33,74,0.48,0.44,0.91
+18,Island Sway,The Tide Rollers,reggae,laid-back,0.52,82,0.76,0.68,0.58
+19,Delta Smoke,Blind River Co,blues,soulful,0.44,92,0.62,0.50,0.83
+20,Fiesta de Colores,La Vibra,latin,festive,0.85,126,0.90,0.89,0.14
